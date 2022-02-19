@@ -27,7 +27,7 @@ public class Hello extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Hello motherfucker!");
+		response.getWriter().append("Hello motherfucker! THis is the change after the first commit");
 	}
 
 	/**
